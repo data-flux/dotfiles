@@ -1,0 +1,1 @@
+/home/dirk/.config/fish/config.fish
