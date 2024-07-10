@@ -1,0 +1,12 @@
+indent_style = "Visual"
+max_width = 78
+comment_width = 70
+wrap_comments = true
+group_imports = "StdExternalCrate"
+imports_granularity = "Module"
+imports_indent = "Visual"
+imports_layout = "Vertical"
+normalize_comments = true
+blank_lines_upper_bound = 2
+format_strings = true
+empty_item_single_line = false
