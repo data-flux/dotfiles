@@ -1,0 +1,8 @@
+(
+    open_help: Some(( code: Char('?'), modifiers: ( bits: 0,),)),
+
+    tab_toggle: Some((code: PageDown, modifiers: (bits: 2,),)),
+    tab_toggle_reverse: Some((code: PageUp, modifiers: (bits: 2,),)),
+
+    toggle_workarea: Some((code: Tab, modifiers: (bits:0,),)),
+)
